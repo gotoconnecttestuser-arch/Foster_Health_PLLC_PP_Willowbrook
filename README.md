@@ -54,6 +54,15 @@ AFC Urgent Care Willowbrook does not sell, rent, or share your mobile informatio
 
 We may share information with service providers that assist us in delivering SMS communications, provided they are contractually obligated to protect your information and use it only for authorized business purposes.
 
+Consumer Mobile Data
+Your data will not be transferred to external organizations, including affiliates, vendors, or service providers.
+
+Limited Handling for Message Delivery
+If external handling is strictly necessary for compliant message delivery and permitted by the applicable standard, it is limited solely to what is required to deliver the message and for no other purpose.
+
+Protection of Your Information
+We maintain safeguards designed to prevent unauthorized access, use, or sharing of consumer mobile data.
+
 6. Data Security
 
 We use reasonable administrative, technical, and physical safeguards to protect your personal information from unauthorized access, disclosure, or misuse.
